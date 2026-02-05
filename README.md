@@ -24,7 +24,7 @@ Perfect for showing loading states while content or data is being processed.
 
 ## 🖼 Preview
 
-> 📸 Add a screenshot or GIF of your loader here for better visibility
+> 📸 https://abdelaziz-10.github.io/Loading/
 
 ```text
 (Example)
